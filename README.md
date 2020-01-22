@@ -1,0 +1,2 @@
+# tricks
+Just some tricks
